@@ -9,7 +9,7 @@ This website was created for **DSC180A Methodology Assignment 4**.
 
 Kyra Deng, kkdeng@ucsd.edu
 
-B22 Professor Smarr
+Section B22 Professor Smarr
 
 What is the most interesting topic covered in your domain this quarter?
 
